@@ -13,5 +13,5 @@
 3. 运行：python code/first.py
 
 ## 结果
-![运行结果](result.jpg)
+![运行结果](test.jpg)
 
